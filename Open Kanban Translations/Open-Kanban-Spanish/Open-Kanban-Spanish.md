@@ -112,15 +112,15 @@ Los valores de Open Kanban se traducen en acción siguiendo las siguientes cuatr
 
 Nuestra búsqueda de una licencia open source para el proyecto nos llevó a tres posibles opciones para fomentar la colaboración y las cuatro libertades que hemoss acogido, esas licencias fueron: licencia GNU [LGPL](http://www.gnu.org/licenses/lgpl.html) v3, licencia [MIT](http://opensource.org/licenses/MIT), y licencia [Creative Commons](http://creativecommons.org).
 
-Aunque las primeras dos licencias son [apropiadas](http://choosealicense.com/licenses/), ambas están diseñadas para compartir código de computadora. Por otro lado, Creative Commons es apropiada para trabajo relacionado con conocimiento que trata sobre escritos, y creación de contenido en los medios. Major endorsements by [Wikipedia](http://creativecommons.org/weblog/entry/15411), [Flickr](http://www.flickr.com/creativecommons/), [Autodesk](http://creativecommons.org/weblog/entry/39184) and many [more](http://wiki.creativecommons.org/Case_Studies) convinced us of their reputation and [future](http://creativecommons.org/weblog/entry/38371) as a trustworthy promoter of [freedom](http://creativecommons.org/culture) in our culture.
+Aunque las primeras dos licencias son [apropiadas](http://choosealicense.com/licenses/), ambas están diseñadas para compartir código de computadora. Por otro lado, Creative Commons es apropiada para trabajo relacionado con conocimiento que trata sobre escritos, y creación de contenido en los medios. Importantes apoyos de  [Wikipedia](http://creativecommons.org/weblog/entry/15411), [Flickr](http://www.flickr.com/creativecommons/), [Autodesk](http://creativecommons.org/weblog/entry/39184) y muchos más [more](http://wiki.creativecommons.org/Case_Studies) nos convencieron de su reputación y [futuro](http://creativecommons.org/weblog/entry/38371) como un confiable promotor de la [libertad](http://creativecommons.org/culture) en nuestra cultura.
 
-Our Open Kanban License is therefore based on Creative Commons and fully compatible with the four freedoms of the open source movement we embrace. **We selected the [Creative Commons Attribution 3.0 Unported license](http://creativecommons.org/licenses/by/3.0/)**, commonly referred to as [CC BY](http://creativecommons.org/licenses/by/3.0/) as our license; this is one of the most open licenses available. Open Kanban's CC BY license fully allows you to:  
-- Share, copy, and modify Open Kanban  
-- Use Open Kanban for personal, commercial or non-profit goals.  
+Nuestra licencia Open Kanban está por lo tanto basada en Creative Commons y es completamente compatible con nuestras cuatro libertades del movimiento open source que acogemos. **Seleccionamos la licencia [Creative Commons Attribution 3.0 Unported license](http://creativecommons.org/licenses/by/3.0/)**, comunmente referida como [CC BY](http://creativecommons.org/licenses/by/3.0/) como nuestra licencia; esta es una de las licencias más abiertas disponibles. El CC BY de Open Kanban permite totalmente:
+- Compartir, copiar, y modificar Open Kanban 
+- Usar Open Kanban para uso personal, comercial u objetivos sin fines de lucro.  
 
-We only ask you that you:  
-	- Give us credit  
-	- Contribute your best ideas back to Open Kanban root repository.
+Sólo pedimos que:
+	- Nos des crédito  
+	- Contribuyas tus mejores ideas de vuelta al repositorio raíz de Open Kanban.
 
 ## How Can You Contribute?
 First of all talk about and recommend Open Kanban! You can find the company behind this idea: AgileLion Institute on [Twitter](https://twitter.com/AgileLionInst), [LinkedIn](http://www.linkedin.com/company/agilelion-institute), [Google Plus](https://plus.google.com/104894673916035923996/posts), and on the [web](http://agilelion.com). 
