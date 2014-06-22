@@ -122,25 +122,25 @@ Sólo pedimos que:
 	- Nos des crédito  
 	- Contribuyas tus mejores ideas de vuelta al repositorio raíz de Open Kanban.
 
-## How Can You Contribute?
-First of all talk about and recommend Open Kanban! You can find the company behind this idea: AgileLion Institute on [Twitter](https://twitter.com/AgileLionInst), [LinkedIn](http://www.linkedin.com/company/agilelion-institute), [Google Plus](https://plus.google.com/104894673916035923996/posts), and on the [web](http://agilelion.com). 
+## ¿Cómo podés contribuir?
+Primero que nada hablar sobre Open Kanban! Podés encontrar la compañía detrás de esta idea: AgileLion Institute en [Twitter](https://twitter.com/AgileLionInst), [LinkedIn](http://www.linkedin.com/company/agilelion-institute), [Google Plus](https://plus.google.com/104894673916035923996/posts), y en la [web](http://agilelion.com).
 
-Second, if you understand Kanban well, and wish to contribute, get familiar with Git, fork us and contribute back to us by submitting your [pull request](https://help.github.com/articles/creating-a-pull-request) on [GitHub](https://github.com/agilelion/Open-Kanban)! 
+Segundo, si podés entender Kanban bien, y deseás contribuir, familirizate con Git, bifurcá (hacé un fork) y contribuí con nosotros haciendo un pedido de pull [pull request](https://help.github.com/articles/creating-a-pull-request) en [GitHub](https://github.com/agilelion/Open-Kanban)! 
 
-Third, our vision of Open Kanban is much bigger than this document, we want to make Open Kanban into an independent website, and spread the Open Kanban Movement around the world of Agile and Lean practitioners. If you would like to do more we welcome your help in any of the following areas:
+Tercero, nuestra vsisión de Open Kanban es mucho más grande que este documento, queremos hacer de Open Kanban un website independiente, y difundir el Movimiento Open Kanban alrededor del mundo de los practicantes de Ágil y Lean. Si te gusta hacer más bienvenida tu ayuda en cualquiera de las siguientes áreas:
 
-* Translations. We would like to reach the world with Open Kanban. We welcome translators from any part of the world!
-* Graphic Design. We would like to create several logos to identify people who follow, support us, or join forces as Open Kanban Methods or Certified Education providers.
-* Web Design and Development. We would like to have a website dedicated to Open Kanban, where people can find information about the project, education providers and like minded people who support the initiative. We are committed to Open Source solutions and languages such as PHP, Drupal and Ruby on Rails.
-* Hosting. If you would like to host our website, let us know. We are committed to open source operating systems such as Linux and FreeBSD.
-* Open Kanban Education. Join our initiative to offer Certified Open Kanban courses. We are in the early stages of this initiative; we would like to join forces with several education providers who share our vision for an Open Kanban alternative in the market. If you are interested please [contact us.](http://agilelion.com/contact)  
-* Financial Support. A financial donation page will be created soon, but if you want to contribute now, feel free to contact us [directly.](http://agilelion.com/contact)  
-* Ideas and Suggestions. We welcome them in our [forum!](http://www.linkedin.com/groups?home=&amp;gid=4809439) 
+* Traducciones. Nos gustaría llegar al mundo con Open Kanban. Bienvenidos traductores de cualquier parte del mundo!
+* Diseño gráfico. Nos gustaría crear varios logos para identificar a la gente que nos sigue, nos apoya, o une fuerzas como Métodos Open Kanban o proveedores de Educación Certificados.
+* Diseño y desarrollo web. Nos gustaría tener un website dedicado a Open Kanban, donde la gente pueda encontrar información sobre el proyecto, proveedores de educación y gente de similares interéses que apoyen la iniciativa. Estamos comprometidos a las soluciones Open Source y lenguajes como PHP, Drupal, y Ruby on Rails.
+* Hosting. Si estás interesado en alojar nuestro website, hacénoslo saber. Estamos comprometidos a los sistemas operativos Open Source como Linuex y FreeBSD.
+* Educación Open Kanban. Unite a nuestra iniciativa de ofrecer cursos Certificados de Open Kanban. Estamos en las etapas tempranas de esta iniciativa; nos gustaría unir fuerzas con varios proveedores de educación quienes compartan nuestra visión de una alternativas Open Kanban en el mercado. Si estás interesado por favor [contactános ](http://agilelion.com/contact)  
+* Apoyo financiero. Una página para donaciones financieras será creada pronto, pero si querés contribuir ahora, sentite libre de contactarnos [directamente.](http://agilelion.com/contact)  
+* Ideas y sugerencias. ¡Bienvenidas en nuestra [foro!](http://www.linkedin.com/groups?home=&amp;gid=4809439) 
 
-Finally do consider contributing to the sponsor behind this project: AgileLion Institute by taking a [class with us.](http://agilelion.com/agile-kanban-classes) Our Kanban Ace course is the first one that is fully based on Open Kanban, and while you learn you make Open Kanban stronger.
+Finalmente condirá contribuir al sponsor detrás de este proyecto: AgileLion Institute tomando una [clase con nosotros.](http://agilelion.com/agile-kanban-classes) Nuestro curso Kanban Ace es el primero que está completamente basado en Open Kanban, y mientras aprendés hacés a Open Kanban más fuerte.
 
-We truly believe in an open, collaborative Open Kanban Movement for all, thanks so much for staying with us all the way to the end Open Kanban's main document. May the values and principles of Open Kanban be useful to all of you!
+Creemos fielmente en un Movimiento Open Kanban colaborativo para todos, muchas gracias por permanecer con nosotros durante todo el camino hasta el final del documento principal de Open Kanban. Que los valores y principios de Open Kanban sean útiles a todos ustedes!
 
 Joseph Hurtado  
-Founder [AgileLion Institute](http://agilelion.com)  
-Kanban Ace Coach - An Open Kanban Method
+Fundador [AgileLion Institute](http://agilelion.com)  
+Kanban Ace Coach - Un Método Open Kanban
