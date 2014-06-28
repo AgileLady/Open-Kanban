@@ -4,7 +4,7 @@
 | :------------ | -----------: | -------------------: |
 | Autor:     | Joseph Hurtado  | Joseph at AgileLion dot com |
 | Colaboradora: | Annita Yegorova Hurtado | Annita at AgileLion dot com |
-| Traductor: |	Federico Varchavsky |	Federico at pmhunting dot com |
+| Traductor: |	Federico Varchavsky |	federico.varchavsky at pmhunting dot com |
 | Lenguaje soportado: | Español |	
 | Sponsor:    | AgileLion Institute     | [AgileLion.com](http://agilelion.com) |
 | Repositorio principal:	| Open Kanban en GitHub | [https://github.com/agilelion/Open-Kanban](https://github.com/agilelion/Open-Kanban) |
@@ -16,16 +16,16 @@ Open Kanban es un movimiento para poner a disposición de todos los valores y pr
 
 De la misma forma, el propósito de Open Kanban es dar a la comunidad Kanban esas cuatro libertades, pero ahora en el contexto del conocimiento compartido:  
 1. Libertad para usar Open Kanban para cualquier propósito (libertad 1)  
-2. Libertad para estudiar, preguntar, y cambiar Open Kanban como lo desen para lograr que le funcione y funcione en su organización (libertad 2)  
+2. Libertad para estudiar, preguntar, y cambiar Open Kanban como lo deseen para lograr que le funcione y funcione en su organización (libertad 2)  
 3. Libertad de [bifurcar (hacer un "fork")] (http://es.wikipedia.org/wiki/Bifurcaci%C3%B3n_(desarrollo_de_software)) o modificar copias de Open Kanban para crear la propia versión personalizada, y dársela a cualquier persona (libertad 3)  
-4. Libertad de beneficiar a toda la comunidad Open Kanban con una solución mejor para todos, compartiendo sus contribuciones con el repositorio principal de Open Kanban. Es es posible mediante sus contribuciones a nuestro repositorio principal en [Github.](https://github.com/agilelion/Open-Kanban) Esta libertad muestra nuestro compromiso con la comunicación, colaboración y mejora continua (libertad 4).
+4. Libertad de beneficiar a toda la comunidad Open Kanban con una solución mejor para todos, compartiendo sus contribuciones con el repositorio principal de Open Kanban. Esto es posible mediante sus contribuciones a nuestro repositorio principal en [Github.](https://github.com/agilelion/Open-Kanban) Esta libertad muestra nuestro compromiso con la comunicación, colaboración y mejora continua (libertad 4).
 
 ## Introducción a Open Kanban
 Kanban se está convirtiendo en una parte importante del Desarrollo de Software Ágil y de IT, la [Encuesta del estado de Agile](http://bit.ly/AgileSurvey2013) de VersionOne es una fuente acreditada que revela que la adopción de Kanban se ha duplicado entre las metodologías Ágiles, y que es utilizada frecuentemente como alternativa a SCRUM.
 
-Sin embargo, con el crecimiento también surgió la necesidad de alinear el método Kanban ([Agile y Lean](http://agilelion.com/agile-kanban-cafe/agile-and-lean-influences-where-did-kanban-scrum-scrumban-come-from) con más de cuatro décadas de historia) con algunas ideas propietarias e interpretaciones de lo que es Kanban. Esta situación fue  explicada completamente en la publicación incial que compartimos sobre la necesidad de un Open Kanban, y que pueden leerla [aquí.](http://agilelion.com/agile-kanban-cafe/what-is-kanban)
+Sin embargo, con el crecimiento también surgió la necesidad de alinear el método Kanban ([Agile y Lean](http://agilelion.com/agile-kanban-cafe/agile-and-lean-influences-where-did-kanban-scrum-scrumban-come-from) con más de cuatro décadas de historia) con algunas ideas propietarias e interpretaciones de lo que es Kanban. Esta situación fue explicada completamente en la publicación incial que compartimos sobre la necesidad de un Open Kanban, y que pueden leerla [aquí.](http://agilelion.com/agile-kanban-cafe/what-is-kanban)
 
-Open Kanban corresponde en realidad a lo que la mayoría de la gente que está familizarizada con el movimiento Ágil piensa cuando se refieren a Kanben en sí mismo: Un [método ágil](http://agilelion.com/agile-kanban-cafe/what-difference-between-agile-kanban-and-scrum-less-5-minutes) para desarrollo de software e IT; a diferencia de otros métodos Ágiles Kanban agrega una vasta herencia de [Lean](http://es.wikipedia.org/wiki/Lean_manufacturing). En [Japón](http://es.wikipedia.org/wiki/Sistema_de_producci%C3%B3n_Toyota) donde se originó el movimiento Lean este tipo de  Kanban es llamado カンバン (Kanban).
+Open Kanban corresponde en realidad a lo que la mayoría de la gente que está familizarizada con el movimiento Ágil piensa cuando se refieren a Kanban en sí mismo: Un [método ágil](http://agilelion.com/agile-kanban-cafe/what-difference-between-agile-kanban-and-scrum-less-5-minutes) para desarrollo de software e IT; a diferencia de otros métodos Ágiles Kanban agrega una vasta herencia de [Lean](http://es.wikipedia.org/wiki/Lean_manufacturing). En [Japón](http://es.wikipedia.org/wiki/Sistema_de_producci%C3%B3n_Toyota) donde se originó el movimiento Lean este tipo de  Kanban es llamado カンバン (Kanban).
 
 El primer objetivo de Open Kanban es ofrecer un Kanban gratuito, de código obierto, colaborativo y fácil de usar que sea ambas cosas [Agile y Lean.](http://agilelion.com/agile-kanban-cafe/agile-and-lean-influences-where-did-kanban-scrum-scrumban-come-from) 
 
@@ -70,18 +70,18 @@ Las prácticas de Open Kanban están enraizadas en valores que son Lean y Agile;
 1.  Respeto por la gente
     *   En el núcleo de Lean y TPS está el respeto por la gente. Respetar a la gente también significa asumir la responsabilidad por tus acciones, y darle la posibilidad a otros que tomen esas acciones.
     *   El respeto por la gente permite la delegación y el basarse en la demanda que es crucial en Kanban. Cuando un desarrollador puede tomar una historia del backlog y llevarla directamente a desarrollo o QA, puede hacerlo porque lo respetamos, respetamos sus habilidades, y le damos la posibilidad de hacerlo mediante nuestro respeto.
-    *   Respeto por la gente también se alinea con el ritmo sustentable en Agile., o Muri 無理 en Lean. Si respetas a tu equipo no los vas a “matar” trabajando, o exponer a cualquier trabajador a demandas físicas o psicológicas que harían casi imposible para él tener éxito. Un desarrollador, gerente o equipo exhaustos son la receta perfecta para el desastre. Kanban no puede ser exitoso de esta forma.
+    *   Respeto por la gente también se alinea con el ritmo sustentable en Agile, o Muri 無理 en Lean. Si respetas a tu equipo no los vas a “matar” trabajando, o exponer a cualquier trabajador a demandas físicas o psicológicas que harían casi imposible para él tener éxito. Un desarrollador, gerente o equipo exhaustos son la receta perfecta para el desastre. Kanban no puede ser exitoso de esta forma.
 2.  Coraje
-    *   El respeto por la gente no es suficiente; como [Kent Beck](http://www.amazon.com/Extreme-Programming-Explained-Embrace-Edition/dp/0321278658) se dio cuenta para mejorar o incluso corregir errores necesitamos coraje. Cuando un gerente, VP, o persona con autoridad se equivoca y alguien con menos poder se da cuenta, se requiere de coraje para que este persona nos comente sobre el error.
+    *   El respeto por la gente no es suficiente; como [Kent Beck](http://www.amazon.com/Extreme-Programming-Explained-Embrace-Edition/dp/0321278658) se dio cuenta, para mejorar o incluso corregir errores necesitamos coraje. Cuando un gerente, VP, o persona con autoridad se equivoca y alguien con menos poder se da cuenta, se requiere de coraje para que esta persona nos comente sobre el error.
     *   El coraje combinado con el respeto por la gente permite delegación efectiva, trabajo por demanda y mejor continua.
 3.  Enfocados en el Valor
-    *   Uno de los propósitos clave de Kanban es la creación de valor. En desarrollo de software valor significa la creación de código funcionando, de calidad, y también forma parte de Agile. Valor ipmlica satisfacción del cliente, y ese es el propósito de nuestros esfuerzos.
+    *   Uno de los propósitos clave de Kanban es la creación de valor. En desarrollo de software valor significa la creación de código funcionando, de calidad, y también forma parte de Agile. Valor implica satisfacción del cliente, y ese es el propósito de nuestros esfuerzos.
     *   El Valor está en el centro de Lean y TPS, pero frecuentemente se lo menciona como la cara opuesta de la moneda: eliminar el desperdicio o "Muda" en Japonés Muda 無駄 representa cualquier cosa que no agregue valor a su proceso o flujo. Elminando el desperdicio, optimizamos la creación de valor.
 4.  Comunicación y Colaboración
     *   Comunicación, y colaboración son el centro del trabajo en equipo. Un valor no funciona sin el otro, esa es la razón por la cual decidimos agruparlos juntos. Para tener éxito necesitamos hacernos escuchar (comunicarnos) pero también necesitamos ser capaces de trabajar con otros para crear valor.
     *   Sin el trabajo en equipo Kanban falla, y para ser honestos casi todo negocio que no se comunique y colabore apropiadamente fallará.
 5.  Aproximación Holística o Sistémica al Cambio
-	*   El [System of Profound Knowledge](https://www.deming.org/theman/theories/profoundknowledge) de Denim y la [Teoría de la Limitaciones](http://es.wikipedia.org/wiki/Teor%C3%ADa_de_las_limitaciones) de Goldratt nos recuerda que ninguna parte de un sistema puede traer una mejora intergral. Necesitamos tomar una vista  [holística](http://agilelion.com/agile-kanban-cafe/hkanban-holistic-approach-getting-things-done) del sistema y comprenderlo. Y la parte clave del sistema es la gente, no sólo como recursos, sino como individuos completos que hacen que el sistema funcione.
+	*   El [Sistema de Conocimiento Profundo](https://www.deming.org/theman/theories/profoundknowledge) de Denim y la [Teoría de la Limitaciones](http://es.wikipedia.org/wiki/Teor%C3%ADa_de_las_limitaciones) de Goldratt nos recuerda que ninguna parte de un sistema puede traer una mejora intergral. Necesitamos tomar una vista  [holística](http://agilelion.com/agile-kanban-cafe/hkanban-holistic-approach-getting-things-done) del sistema y comprenderlo. Y la parte clave del sistema es la gente, no sólo como recursos, sino como individuos completos que hacen que el sistema funcione.
     *   Kanban está de acuerdo con esta visión y apunta a la mejora donde la misma cuenta. Un entendimiento del todo es fundamental para lograr un cambio balanceado y exitoso.
  
 ### 2. Prácticas de Open Kanban
