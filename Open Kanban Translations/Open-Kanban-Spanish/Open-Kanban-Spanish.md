@@ -125,7 +125,7 @@ Sólo pedimos que:
 ## ¿Cómo podés contribuir?
 Primero que nada, ¡hablar sobre y recomendar Open Kanban! Podés encontrar la compañía detrás de esta idea: AgileLion Institute en [Twitter](https://twitter.com/AgileLionInst), [LinkedIn](http://www.linkedin.com/company/agilelion-institute), [Google Plus](https://plus.google.com/104894673916035923996/posts), y en la [web](http://agilelion.com).
 
-Segundo, si entendés Kanban bien, y deseás contribuir, familirizate con Git, bifurcá (hacé un fork) y contribuí con nosotros haciendo un pedido de pull [pull request](https://help.github.com/articles/creating-a-pull-request) en [GitHub](https://github.com/agilelion/Open-Kanban)! 
+Segundo, si entendés Kanban bien, y deseás contribuir, familirizate con Git, bifurcá (hacé un fork) y contribuí con nosotros haciendo un [pedido de pull](https://help.github.com/articles/creating-a-pull-request) en [GitHub](https://github.com/agilelion/Open-Kanban)! 
 
 Tercero, nuestra vsisión de Open Kanban es mucho más grande que este documento, queremos hacer de Open Kanban un website independiente, y difundir el Movimiento Open Kanban alrededor del mundo de los practicantes de Ágil y Lean. Si te gustaría hacer más, bienvenida tu ayuda en cualquiera de las siguientes áreas:
 
